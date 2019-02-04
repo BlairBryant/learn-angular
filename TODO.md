@@ -1,0 +1,1 @@
+Figure out how to pass a function from a parent component to child component
