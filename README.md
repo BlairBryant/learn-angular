@@ -11,7 +11,7 @@ JAVASCRIPT | HTML | CSS | ANGULAR | REACT | NODE <br/><br/>
 
 ### **EXPERIENCE**
 **Front-End Developer**
-Deltatre | *Feb 2019 - Present* <br/>
+Deltatre | *Feb 2019 - May 2020* <br/>
   •	Sole front-end developer for www.nflgamepass.com in Angular 7 (300,000+ yearly subscribers) <br/>
   •	Responsible for all feature enhancements and maintenance Manage Git version control and deployments to various environments including the live site <br/>
   •	Implemented and maintain Adobe Analytics, Adsbygoogle, and A/B testing Utilize a custom CMS to manage content for the website in multiple languages <br/>
