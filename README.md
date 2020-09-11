@@ -1,4 +1,4 @@
-## **BLAIR N. BRYANT**
+## **BLAIR BRYANT**
 blairslc@gmail.com <br/>
 [linkedin.com/in/blair-bryant](linkedin.com/in/blair-bryant)<br/>
 (801) 598-9925
