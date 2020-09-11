@@ -28,7 +28,7 @@ DevMountain Coding Bootcamp | *May 2018 - Aug 2018* <br/>
 **Founder | Owner**
 Alti Studios LLC | *Feb 2016 - Dec 2016* <br/>
   •	Made all decisions ranging from process, pricing, outsourcing, selling and marketing channels <br/>
-  •	Designed and manufactured all products <br/><br/>
+  •	Designed and manufactured all products
 
 ### **EDUCATION**
 **DevMountain** | *May 2018* <br/>
